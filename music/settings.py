@@ -50,7 +50,9 @@ INSTALLED_APPS = [
     'django_extensions',
 
     # Project-specific
-    'users', 'mymusic',
+    # add your projects here 👇🏿
+    'users', 
+    'album',
 ]
 
 MIDDLEWARE = [
